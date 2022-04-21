@@ -1,6 +1,6 @@
 
 # 🚀About Me
-Hello! My name is Alex. I am a Unreal Engine Game Developer.
+Hello! My name is Alex. I am an Unreal Engine Game Developer. In my free time I work on a Video Game I am currently making in UE4!
 
 
 ## 🔗Links
